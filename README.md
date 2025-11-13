@@ -44,7 +44,9 @@ Second Month: Campaign for a New Product
 
 Third Month: Ads
 
+#link drive 
 https://drive.google.com/drive/folders/1xYCjLjlsn7fAa9qkrAANAjbfLdME3JNr?usp=drive_link
+#Documents 
 [الافراد.docx](https://github.com/user-attachments/files/22535540/default.docx)
 [Buyer_Persona_HPS.docx](https://github.com/user-attachments/files/22535542/Buyer_Persona_HPS.docx)
 [Content Strategy (2) (1).xlsx](https://github.com/user-attachments/files/22535552/Content.Strategy.2.1.xlsx)

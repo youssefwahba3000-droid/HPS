@@ -6,14 +6,27 @@ Company Vision:
 To expand in the Egyptian market by providing a good product at a suitable price, achieving a large market share, and offering competitive pricing for maintenance and repair services to customers. The location chosen is Cairo, to serve clients in Cairo and surrounding governorates.
 # team members 
 Youssef Wahba
-
 Youssef Al-Nazlawy
-
 Mohamed Ehab
-
 Ahmed Allam
+Toqa Hamdy
 
-Taqi Hamdy
+# Work Plan
+Start by creating Buyer Personas.
+Then, write the Content.
+After that, create a page on Facebook and Instagram.
+Begin creating Reels.
+Trainee Roles:
+Youssef Wahba / Youssef Al-Nazlawy / Taqi Hamdy:
+Writing Content and Advertisements.
+Mohamed Ehab / Ahmed Allam
+Creating all related Designs & Graphics.
+Timeline:
+3 Months
+First Month: Content Strategy & Posts
+Second Month: Campaign for a New Product
+Third Month: Ads
+
 https://drive.google.com/drive/folders/1xYCjLjlsn7fAa9qkrAANAjbfLdME3JNr?usp=drive_link
 [الافراد.docx](https://github.com/user-attachments/files/22535540/default.docx)
 [Buyer_Persona_HPS.docx](https://github.com/user-attachments/files/22535542/Buyer_Persona_HPS.docx)
